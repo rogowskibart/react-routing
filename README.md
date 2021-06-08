@@ -6,4 +6,4 @@ I managed to create both class components ([PostCreate.js][postcreate]) using st
 
 [1]: https://jsonplaceholder.typicode.com/
 [postcreate]: src/components/posts/PostCreate.js
-[postlist]: ./components/posts/PostList.js
+[postlist]: src/components/posts/PostList.js
